@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.10;
+// Enum for mapping
 
 contract Enum {
     // Enum representing different possible shipping states
