@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.10;
 // Enum for mapping
+// they are just an abstraction for human readable constants,
+ //in actuality, they are internally represented as uints.
 
 contract Enum {
     // Enum representing different possible shipping states
