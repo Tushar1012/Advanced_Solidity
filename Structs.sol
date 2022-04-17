@@ -34,8 +34,10 @@ contract Todolist{
     function toggleCom(uint _index) public {
         todos[_index].completed =!todos[_index].completed;
         
+
     }
 
 }
 
 
+//done
