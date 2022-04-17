@@ -29,7 +29,7 @@ contract Enum {
     function get() public view returns (Status) {
         return status;
     }
-    
+    // it will show number not string
     // Pass a uint for input to update the value
     function set(Status _status) public {
         status = _status;
