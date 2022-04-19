@@ -8,6 +8,7 @@ pragma solidity ^0.8.10;
  / \ /
 F  D,E
 
+full datail
 */
 
 contract A {
