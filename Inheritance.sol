@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.10;
-
+//inheritance
 /* Graph of inheritance
     A
    / \
@@ -59,3 +59,4 @@ contract F is A, B {
         return super.foo();
     }
 }
+//done
