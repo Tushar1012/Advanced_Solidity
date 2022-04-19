@@ -15,3 +15,6 @@ contract Event {
         emit AnotherLog();
     }
 }
+
+
+// we are emiting another msg
