@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.10;
+// loop should't be endless otherwise it will tale all gas
 
 contract Loop {
     function loop() public {
