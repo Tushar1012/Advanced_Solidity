@@ -1,5 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.10;
+// Don't write loops that are unbounded as this can hit the gas limit, causing your transaction to fail.
+
+// For the reason above, while and do while loops are rarely used.
 // loop should't be endless otherwise it will tale all gas
 
 contract Loop {
