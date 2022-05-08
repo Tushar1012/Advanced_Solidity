@@ -13,7 +13,7 @@ contract Enum {
         Rejected,
         Canceled
     }
-    
+    //done
     // Declare a variable of the type Status
     // This can only contain one of the predefined values
     Status public status;
