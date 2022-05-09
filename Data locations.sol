@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
-
+// all mentions here
 contract DataLocations {
     uint[] public arr;
     mapping(uint => address) map;
