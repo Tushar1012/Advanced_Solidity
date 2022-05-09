@@ -56,3 +56,4 @@ contract Bar {
         }
     }
 }
+// done contract
