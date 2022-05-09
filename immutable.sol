@@ -11,3 +11,5 @@ contract Immutable {
         MY_UINT = _myUint;
     }
 }
+
+//done createinstmce
