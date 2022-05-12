@@ -12,3 +12,4 @@ contract FunctionSelector {
         return bytes4(keccak256(bytes(_func)));
     }
 }
+// done
