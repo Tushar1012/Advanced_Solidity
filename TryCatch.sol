@@ -1,4 +1,5 @@
 // javascript similar but need to mention state
+// but catch wont add error in console it will burn your gas
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
