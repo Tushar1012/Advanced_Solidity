@@ -1,3 +1,4 @@
+// javascript similar but need to mention state
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
