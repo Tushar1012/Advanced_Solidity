@@ -44,3 +44,6 @@ contract NestedMapping {
         delete nested[_addr1][_i];
     }
 }
+
+
+// mapping two add them together
