@@ -51,7 +51,7 @@ contract Base {
     // State variables cannot be external so this code won't compile.
     // string external externalVar = "my external variable";
 }
-
+// this will follow inheritance feature to know more about that look into previous feature
 contract Child is Base {
     // Inherited contracts do not have access to private functions
     // and state variables.
