@@ -1,7 +1,7 @@
 // event on solidity done
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.10;
-
+// event keyword is reserver in solidity
 contract Event {
     // Event declaration
     // Up to 3 parameters can be indexed.
